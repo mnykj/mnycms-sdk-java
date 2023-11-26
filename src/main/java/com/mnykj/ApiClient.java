@@ -7,4 +7,7 @@ package com.mnykj;
  * @since 10:17 2023/11/16
  */
 public class ApiClient {
+    public void test(){
+        System.out.println(22222);
+    }
 }
